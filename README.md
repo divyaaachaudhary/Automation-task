@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/3b1dbfab-f2b7-4413-a567-44ffc8af3bef
 
 (1) Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/divyaaachaudhary/Automation-task.git)
 
 
 (2) Navigate into the project folder:
