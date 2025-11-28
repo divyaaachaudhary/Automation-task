@@ -3,48 +3,39 @@ This project is a C# Selenium automation script that opens the CloudQA Automatio
 
 # How to Run This Project
 
-Clone the repository
+(1) Clone the repository
 
 git clone https://github.com/your-username/your-repo-name.git
 
 
-Navigate into the project folder:
+(2) Navigate into the project folder:
 
 cd your-repo-name
 
-
-Make sure you have installed:
-
+(3) Make sure you have installed:
 .NET SDK
-
 Selenium.WebDriver (NuGet)
-
 Selenium.Support
-
 ChromeDriver (NuGet)
 
-Run the project from terminal:
-
+(4) Run the project from terminal:
 dotnet run
-
 
 A Chrome window will open automatically and the script will fill the entire form.
 
-📝 Project Description
+# Project Description
 
 This project uses Selenium WebDriver in C# to automate the CloudQA Automation Practice Form.
 It auto-fills:
 
-All input fields
+- All input fields
 
-Dropdown selections (Country, State, etc.)
+- Dropdown selections (Country, State, etc.)
 
-Checkboxes + radio buttons
+- Checkboxes + radio buttons
 
-File uploads
+- File uploads
 
-Nested iframes (including frames without IDs)
-
-WYSIWYG “Description” editor using JavaScript injection
+- Nested iframes (including frames without IDs)
 
 The script is written to be adaptive, so it works even if HTML structure changes.
