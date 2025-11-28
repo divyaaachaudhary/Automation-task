@@ -1,6 +1,8 @@
 # Automation-task(C#)
 This project is a C# Selenium automation script that opens the CloudQA Automation Practice Form and automatically fills out all available fields — including text inputs, dropdowns, checkboxes, nested iframes, and even the WYSIWYG description editor.
 
+https://github.com/user-attachments/assets/3b1dbfab-f2b7-4413-a567-44ffc8af3bef
+
 # How to Run This Project
 
 (1) Clone the repository
